@@ -156,21 +156,21 @@ const Portfolio = () => {
             status: "Live on Mainnet"
         },
         {
-            title: "Decentralized Staking App",
-            description: "Developed a decentralized staking app empowering communities with Trustless group funding.",
+            title: "Decentralized Exchange",
+            description: "Developed a decentralized exchange app that facilitate the trustless trading between tokens .",
             tech: ["Solidity", "ERC-721", "IPFS", "React"],
-            features: ["Royalty management", "Batch operations", "Lazy minting", "Upgradeable proxy"],
+            features: ["Reserves ", "Liquidity provision", "pricing mechanism", "Trading", "Swapping"],
             github: "https://github.com/Azra-dev-DEFI/Decentralized-Exchange-Hardhat-Solidity-Project",
             demo: "https://dex-challenge-beta.vercel.app/",
             status: "In Development"
         },
         {
-            title: "Multi-Sig Wallet System",
-            description: "Created a secure multi-signature wallet with role-based access and transaction queuing system.",
-            tech: ["Solidity", "Gnosis Safe", "Web3.js", "TypeScript"],
-            features: ["M-of-N signatures", "Role management", "Transaction queuing", "Gas optimization"],
-            github: "https://github.com",
-            demo: "https://blockchainalgo.netlify.app/",
+            title: "Decentralized Staking App",
+            description: "Developed a decentralized staking app empowering communities with Trustless group funding.",
+            tech: ["Solidity", "Gnosis Safe", "Hardhat", "TypeScript"],
+            features: ["Saving", "Smart rules", "Transaction queuing", "Gas optimization"],
+            github: "https://github.com/Azra-dev-DEFI/decentralized-staking",
+            demo: "https://nexostakingapp.vercel.app/",
             status: "Audited"
         }
     ];
